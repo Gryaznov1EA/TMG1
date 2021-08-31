@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TheMostGamesTask1Core/1.0.0": {
+        "runtime": {
+          "TheMostGamesTask1Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheMostGamesTask1Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
